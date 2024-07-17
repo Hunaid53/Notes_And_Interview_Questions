@@ -24,10 +24,10 @@ Feel free to explore, contribute, and share your insights with the community!
 To access the content, follow these steps:
 
 1. **Clone the Repository**:
-```bash
-git clone https://github.com/your-username/notes-and-interview-questions.git
-cd notes-and-interview-questions
-```
+   ```bash
+   git clone https://github.com/your-username/notes-and-interview-questions.git
+   cd notes-and-interview-questions
+   ```
 
 2. **Explore the Files**:
 - Browse the relevant folders to find the notes and interview questions you're interested in.
